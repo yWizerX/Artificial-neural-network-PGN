@@ -1,3 +1,5 @@
+![PGN Architeture.](neural.jpe)
+
 # PGN (Polynomial Gated Network) — V9 Release 1
 
 PGN is a compact artificial neural network topology designed to handle non-linear classification using significantly fewer parameters than traditional fully connected layers.
