@@ -63,6 +63,4 @@ Evaluated across 20 random seeds over 1200 epochs against a baseline Dense Net w
 - NumPy
 - scikit-learn
 
-### Run
-```bash
-python main.py
+The neural network code is in main.py.
